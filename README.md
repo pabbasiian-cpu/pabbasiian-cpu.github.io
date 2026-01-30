@@ -1,3 +1,14 @@
-# pabbasiian-cpu.github.io
+# Pouneh’s Learning Blog
 
-Introduction to Pyspark and Distributed Systems
+Welcome 👋  
+This is my public space where I document what I’m learning in data engineering.
+
+## 📚 Topics
+- Data Engineering
+- SQL & Databases
+- Python
+- PySpark
+- Cloud & Distributed Systems
+
+## 📝 Latest Notes
+- Coming soon…
