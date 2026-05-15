@@ -5,12 +5,11 @@ This is my public space where I document what I’m learning in data engineering
 
 ## 📚 Topics
 - Data Engineering
-- SQL & Databases
-- Python
 - PySpark
 - Cloud & Distributed Systems
 - Advanced Python: Language Features
 - Object-Oriented Programming
+- SQL & Databases
 
 
 ## 📝 Latest Notes
