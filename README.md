@@ -1,7 +1,7 @@
 # Pouneh’s Learning Blog
 
 Welcome 👋  
-This is my public space where I document what I’m learning in data engineering.
+This is my public space where I document what I’m learning and required for data engineers.
 
 ## 📚 Topics
 - Data Engineering
