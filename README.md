@@ -9,6 +9,9 @@ This is my public space where I document what I’m learning in data engineering
 - Python
 - PySpark
 - Cloud & Distributed Systems
+- Advanced Python: Language Features
+- Object-Oriented Programming
+
 
 ## 📝 Latest Notes
-- Coming soon…
+- The object-oriented programming (OOP) features in Python make it easier to build programs of increasing complexity and modularity. Here we learn how to apply core OOP principles to build programs that are extensible and efficient. we start with the basics of defining and using classes and objects.
